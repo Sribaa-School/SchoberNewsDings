@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background: #f5f7fa;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+.page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 24px 16px 96px;
+  text-align: center;
+}
+
+.article-count {
+  font-weight: 600;
+  color: #1565c0;
+  margin: 12px 0;
+}
